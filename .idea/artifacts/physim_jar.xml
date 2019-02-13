@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="physim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/physim_jar</output-path>
+    <root id="archive" name="physim.jar">
+      <element id="module-output" name="physim" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/processing-3.4/processing-3.4/core/library/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
